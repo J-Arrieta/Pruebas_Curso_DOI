@@ -1,2 +1,4 @@
 luego de volver al archivo inicial estoy volviendo a modificarlo
 Modificación hecha in GitHub
+Linea agregada desde la rama master mientras existe ya la alternativa
+Agregando línea en la rama master, segundo agregado

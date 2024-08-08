@@ -1,4 +1,5 @@
 agregando primera línea en archivo carpeta
+linea agregada desde la rama1 
 linea agregada solo desde la rama alternativa
 
 
@@ -6,3 +7,4 @@ linea agregada solo desde la rama alternativa
 
 
 linea agregada en rama 1 para hacer un segundo merge
+

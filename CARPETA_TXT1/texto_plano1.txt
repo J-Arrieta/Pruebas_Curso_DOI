@@ -1,2 +1,4 @@
 agregando primera línea en archivo carpeta
 linea agregada desde la rama1 
+linea agregada solo desde la rama alternativa
+

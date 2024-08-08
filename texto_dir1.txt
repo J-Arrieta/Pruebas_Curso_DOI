@@ -1,12 +1,6 @@
 luego de volver al archivo inicial estoy volviendo a modificarlo
 Modificación hecha in GitHub
+Nueva línea en la nube para solicitar un pull-request
 Linea agregada desde la rama master mientras existe ya la alternativa
 Agregando línea en la rama master, segundo agregado
-
-
-
-
-
-
-
 en rama master tercer cambio
